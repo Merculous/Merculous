@@ -1,9 +1,9 @@
 
 # About me
 
-Just a Python script kiddie who like to mess around with compression and iOS.
+Just a Python script kiddie who likes to mess around with compression and iOS.
 
-# Programming language I know
+# Programming languages I know
 
 Python, that's it :/
 
